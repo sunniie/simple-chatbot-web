@@ -1,0 +1,1110 @@
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
+Hôm nay trời đẹp quá nhỉ? | Đúng rồi, nắng đẹp và gió mát.
+Bạn thích ăn gì? | Mình thích ăn phở.
+Bạn có nuôi thú cưng không? | Mình có nuôi một con mèo.
+Cuối tuần bạn thường làm gì? | Mình thường đi dã ngoại hoặc đọc sách.
+Bạn thích xem phim thể loại gì? | Mình thích phim khoa học viễn tưởng.
+Bạn đã đi du lịch ở đâu chưa? | Mình đã đi du lịch ở Đà Lạt và rất thích thời tiết ở đó.
+Bạn làm việc trong lĩnh vực nào? | Mình làm việc trong lĩnh vực công nghệ thông tin.
+Bạn học tiếng Anh bao lâu rồi? | Mình học tiếng Anh được 5 năm rồi.
+Bạn có hay tập thể dục không? | Mình thường tập thể dục mỗi buổi sáng.
+Món ăn yêu thích của bạn là gì? | Mình rất thích sushi.
+Bạn đã từng tham gia hội thảo quốc tế chưa? | Mình đã tham gia một vài hội thảo ở nước ngoài.
+Bạn có chơi nhạc cụ nào không? | Mình chơi guitar từ nhỏ.
+Bạn có thích hoa không? | Mình rất thích hoa hướng dương.
+Bạn thường đi du lịch bao nhiêu lần một năm? | Mình thường đi du lịch 2-3 lần một năm.
+Bạn có thích đọc sách không? | Mình rất thích đọc sách, đặc biệt là sách về lịch sử.
+Bạn có hay đi cà phê không? | Mình thường đi cà phê vào cuối tuần.
+Bạn thích đi biển hay đi núi hơn? | Mình thích đi biển vì không khí rất trong lành.
+Bạn có sưu tầm gì không? | Mình sưu tầm tiền xu từ các quốc gia.
+Bạn có hay tham gia các hoạt động xã hội không? | Mình thường tham gia các hoạt động từ thiện vào cuối tuần.
+Bạn thích nghe nhạc gì? | Mình thích nhạc cổ điển, đặc biệt là Beethoven.
+Bạn có biết nấu ăn không? | Mình nấu ăn khá giỏi, đặc biệt là món Việt Nam.
+Bạn có thường xuyên xem phim không? | Mình thường xem phim vào cuối tuần.
+Bạn có hay đi du lịch với bạn bè không? | Mình thường đi du lịch với nhóm bạn thân.
+Bạn thích uống cà phê hay trà hơn? | Mình thích uống cà phê hơn, đặc biệt là cà phê đen.
+Bạn có thích trời mưa không? | Mình thích nghe tiếng mưa rơi khi đọc sách.
+Bạn có hay dùng mạng xã hội không? | Mình dùng mạng xã hội để liên lạc với bạn bè và gia đình.
+Bạn có chơi thể thao không? | Mình thường chơi bóng đá vào cuối tuần.
+Bạn có thích học ngoại ngữ không? | Mình rất thích học ngoại ngữ, hiện tại mình đang học tiếng Nhật.
+Bạn có sợ độ cao không? | Mình hơi sợ độ cao, nhưng mình vẫn thích leo núi.
+Bạn có bao giờ tham gia cuộc thi chạy marathon không? | Mình đã tham gia một vài cuộc thi chạy bán marathon.
+Bạn có tin vào vận may không? | Mình nghĩ vận may là kết quả của sự cố gắng và kiên trì.
+Bạn có thích đi chơi vào buổi tối không? | Mình thích dạo phố vào buổi tối vì không khí rất mát mẻ.
+Bạn có hay xem chương trình truyền hình không? | Mình thường xem các chương trình về du lịch và ẩm thực.
+Bạn thích mùa nào trong năm? | Mình thích mùa thu vì thời tiết rất dễ chịu.
+Bạn có bao giờ thử nhảy dù chưa? | Mình chưa, nhưng mình muốn thử nhảy dù một ngày nào đó.
+Bạn có thể chơi bao nhiêu môn thể thao? | Mình có thể chơi bóng đá, bóng rổ và bơi lội.
+Bạn có thích công việc hiện tại của mình không? | Mình rất hài lòng với công việc hiện tại vì nó mang lại nhiều thách thức và cơ hội phát triển.
